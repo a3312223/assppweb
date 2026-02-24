@@ -8,7 +8,7 @@
   "containers": [
     {
       "class_name": "AssppContainer",
-      "image": "ghcr.io/lakr233/assppweb:latest",
+"image": "registry.cloudflare.com/d0fd82c0be45c3cecc38e0451e403806/assppweb:latest"
       "instance_type": "standard-1",
       "max_instances": 1,
     },
